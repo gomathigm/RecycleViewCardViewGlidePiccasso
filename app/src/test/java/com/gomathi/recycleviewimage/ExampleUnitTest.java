@@ -1,4 +1,4 @@
-package com.gomathi.recycleviewimage;
+package com.gomathi.RecycleViewCardViewGlidePiccasso;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.gomathi.recycleviewimage;
+package com.gomathi.RecycleViewCardViewGlidePiccasso;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.gomathi.recycleviewimage", appContext.getPackageName());
+        assertEquals("com.gomathi.RecycleViewCardViewGlidePiccasso", appContext.getPackageName());
     }
 }
